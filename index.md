@@ -1,6 +1,7 @@
 # Omitze's Personal Homepage
 
 A rookie diligently learning LLMs, slacking off if I can’t get it.
+![omitze](pics/omitze.jpg)
 
 ## Reasearch
 My primary research focus lies in the field of sequence generation tasks, including low-resource machine translation and domain adaptation for machine translation. Currently, my main research objective is to design a training-free and denoising k-nearest neighbor machine translation algorithm framework that aims to achieve exceptional performance while minimizing computational costs.
