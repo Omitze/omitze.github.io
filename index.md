@@ -1,12 +1,14 @@
-# 张三的个人主页
+# Omitze's Personal Homepage
 
-## 个人简介
-- 🎓 计算机专业在读
-- 📍 中国北京
-- ✉️ zhangsan@example.com
+A rookie diligently learning LLMs, slacking off if I can’t get it.
 
-## 项目展示
-1. [项目A](https://github.com/zhangsan/project-a) - 用Python开发的自动化工具
-2. [项目B](https://github.com/zhangsan/project-b) - 简易待办事项应用
+## Reasearch
+My primary research focus lies in the field of sequence generation tasks, including low-resource machine translation and domain adaptation for machine translation. Currently, my main research objective is to design a training-free and denoising k-nearest neighbor machine translation algorithm framework that aims to achieve exceptional performance while minimizing computational costs.
 
-[访问我的GitHub主页](https://github.com/zhangsan)
+## Personal profile
+- 🎓 Computer Science Student
+- ✉️ omitze@qq.comm
+
+## Project display
+1. [green_vision](https://gitee.com/omitze/green_vision.git) - This project aims to build a world resource visualization website under the flask architecture
+2. [Machine translation system with enhanced translation memory](https://gitee.com/omitze/enhanced_translation_system.git) - An open source project focused on improving the quality of machine translation, optimizes translation efficiency and accuracy by integrating translation memory technology, and is suitable for content conversion needs in a bilingual resource-scarce environment.
