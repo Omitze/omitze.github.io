@@ -1,14 +1,14 @@
 # Omitze's Personal Homepage
 
 A rookie diligently learning LLMs, slacking off if I can’t get it.
-![omitze](pics/omitze.jpg)
+[![omitze](pics/omitze.jpg){: style="float: left; margin-right: 15px;" width="300"}]
 
-## Reasearch
+## Research
 My primary research focus lies in the field of sequence generation tasks, including low-resource machine translation and domain adaptation for machine translation. Currently, my main research objective is to design a training-free and denoising k-nearest neighbor machine translation algorithm framework that aims to achieve exceptional performance while minimizing computational costs.
 
 ## Personal profile
 - 🎓 Computer Science Student
-- ✉️ omitze@qq.comm
+- ✉️ omitze@qq.com
 
 ## Project display
 1. [green_vision](https://gitee.com/omitze/green_vision.git) - This project aims to build a world resource visualization website under the flask architecture
