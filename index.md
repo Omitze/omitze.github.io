@@ -2,12 +2,6 @@
 
 A rookie diligently learning LLMs, slacking off if I can’t get it.
 
-<img src="pics/omitze.jpg"
-     style="float: right;
-            margin-left: 25px;
-            transform: rotate(2deg); <!-- 可视化浮动效果 -->
-            box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
-
 <img src="pics/omitze.jpg" 
      style="float: right; 
             margin-left: 15px;
