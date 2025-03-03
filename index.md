@@ -2,9 +2,11 @@
 
 A rookie diligently learning LLMs, slacking off if I can’t get it.
 
-<div style="text-align: right; margin: 20px 0;">
-  <img src="pics/omitze.jpg" width="400"/>
-</div>
+<img src="pics/omitze.jpg" 
+     style="float: right; 
+            margin-left: 15px;
+            margin-bottom: 10px;
+            width: 300px;">
 
 ## Research
 My primary research focus lies in the field of sequence generation tasks, including low-resource machine translation and domain adaptation for machine translation. Currently, my main research objective is to design a training-free and denoising k-nearest neighbor machine translation algorithm framework that aims to achieve exceptional performance while minimizing computational costs.
