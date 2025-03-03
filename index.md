@@ -2,7 +2,7 @@
 
 A rookie diligently learning LLMs, slacking off if I can’t get it.
 
-<div style="text-align: left; margin: 20px 0;">
+<div style="text-align: right; margin: 20px 0;">
   <img src="pics/omitze.jpg" width="400"/>
 </div>
 
