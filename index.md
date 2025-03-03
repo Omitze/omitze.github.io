@@ -8,6 +8,8 @@ A rookie diligently learning LLMs, slacking off if I can’t get it.
             margin-bottom: 10px;
             width: 300px;">
 
+![omitze](pics/omitze.jpg)
+
 ## Research
 My primary research focus lies in the field of sequence generation tasks, including low-resource machine translation and domain adaptation for machine translation. Currently, my main research objective is to design a training-free and denoising k-nearest neighbor machine translation algorithm framework that aims to achieve exceptional performance while minimizing computational costs.
 
